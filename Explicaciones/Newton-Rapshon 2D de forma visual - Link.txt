@@ -1,3 +1,3 @@
-Si no funciona el documento HTML usar este link:
+Para acceder a la página de Desmos con una visualización de el método de Newton-Raphson en 2D usar este link:
 
 https://www.desmos.com/calculator/5zmzhedfos?lang=es
