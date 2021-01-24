@@ -1,1 +1,7 @@
-<a href="https://www.desmos.com/calculator/5zmzhedfos?lang=es">Visualización del método para una dimensión</a>
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <a href="https://www.desmos.com/calculator/5zmzhedfos?lang=es">Visualización del método para una dimensión</a>
+  </body>
+</html>
