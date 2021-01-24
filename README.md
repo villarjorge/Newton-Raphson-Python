@@ -5,10 +5,12 @@
 
 To do: 
 
-  1- Split the main script into GUI and function
+1- Split the main script into GUI and function
+
+2- Apply the intermidiate value theorem for better initial guesses
   
-  2- Apply the intermidiate value theorem for better initial guesses
-  
-      - Do it in 2D
-      - Do it for sistems of two unknouns and 2 non-linear equations
-      - Do it for finding extrema
+  	1- Do it in 2D
+      
+   	2- Do it for sistems of two unknouns and 2 non-linear equations
+      
+    3- Do it for finding extrema
